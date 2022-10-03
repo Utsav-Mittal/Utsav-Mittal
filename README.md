@@ -9,4 +9,5 @@ Some of my interests include:
   4. shows 
   5. movies
   6. reading novels. 
+
 Some of my **goals** for this class are to create at least one game, one interactive scene, and be able to create things that the person running the program can interact with. 
