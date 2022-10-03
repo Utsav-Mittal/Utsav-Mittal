@@ -5,9 +5,8 @@ I wanted to take this class to **explore different things**. Computer science is
 Some of my interests include:
   1. waterpolo
   2. videogames
-  3. tv 
-  4. shows 
-  5. movies
-  6. reading novels. 
+  3. tv shows 
+  4. movies
+  5. reading novels. 
 
 Some of my **goals** for this class are to create at least one game, one interactive scene, and be able to create things that the person running the program can interact with. 
